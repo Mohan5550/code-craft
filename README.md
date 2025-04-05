@@ -4,7 +4,7 @@
 
 <h2>DEMO LINK : </h2>
 
-![https://code-craft-beta-indol.vercel.app](https://code-craft-beta-indol.vercel.app/)
+[https://code-craft-beta-indol.vercel.app](https://code-craft-beta-indol.vercel.app)
 
 Highlights:
 
